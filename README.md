@@ -1,15 +1,15 @@
-# A Polygon Lending dApp starter kit!
+# 🏗 scaffold-eth: Lender
 
-> a demonstrator for depositing & borrowing assets on Aave
+> a component for depositing & borrowing assets on Aave
 
 ---
 
 ## quickstart
 
 ```bash
-git clone https://github.com/Polygon-Academy/lender-kit
+git clone -b lender https://github.com/austintgriffith/scaffold-eth.git lender-scaffold
 
-cd lender-kit
+cd lender-scaffold
 ```
 
 ```bash
