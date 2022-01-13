@@ -7,9 +7,9 @@
 ## quickstart
 
 ```bash
-git clone -b lender https://github.com/austintgriffith/scaffold-eth.git lender-scaffold
+git clone https://github.com/Polygon-Academy/lender-kit
 
-cd lender-scaffold
+cd lender-kit
 ```
 
 ```bash
