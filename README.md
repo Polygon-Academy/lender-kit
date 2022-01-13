@@ -1,4 +1,4 @@
-# 🏗 scaffold-eth: Lender
+# 🏗 Lending dApp starter kit
 
 > a component for depositing & borrowing assets on Aave
 
